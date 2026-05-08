@@ -165,7 +165,7 @@ My approach: keep systems **simple for users**, **structured for maintainers** �
 ![MySQL](https://img.shields.io/badge/MySQL-0B1F36?style=flat&logo=mysql&logoColor=00758F)
 ![Stripe](https://img.shields.io/badge/Stripe-0B1F36?style=flat&logo=stripe&logoColor=635BFF)
 
-🔗 [View repo →](https://github.com/ToroDevelloper/NextLevelPC)
+🔗 [View repo →](https://github.com/ToroDevelloper/NextLevelPC---Store)
 
 </td>
 </tr>
@@ -194,8 +194,7 @@ My approach: keep systems **simple for users**, **structured for maintainers** �
 <div align="center">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ToroDevelloper&theme=dark&background=0D1117&border=00FFB2&ring=00FFB2&fire=FF6C37&currStreakLabel=00FFB2&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ToroDevelloper&theme=dark&background=0D1117&border=00FFB2&ring=00FFB2&fire=FF6C37&currStreakLabel=00FFB2&sideLabels=c9d1d9&dates=8b949e&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
