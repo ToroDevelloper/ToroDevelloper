@@ -1,11 +1,16 @@
 <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08111F,50:0F3D5E,100:00B894&height=150&section=header&text=Angel%20Ivan%20Toro%20Caicedo&fontSize=34&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=ToroDevelloper%20%7C%20Backend%20%26%20Full-Stack%20Developer%20%7C%20Founder%20of%20Kognia&descSize=15&descAlignY=66&descColor=D6F8EF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F36,50:0D3B6E,100:1565C0&height=140&section=header&text=ToroDevelloper&fontSize=42&fontColor=E8F4FD&fontAlignY=55&animation=fadeIn&desc=Backend-leaning%20Full-Stack%20Developer&descSize=15&descAlignY=78&descColor=90CAF9" />
+
+<br>
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=00B894&center=true&vCenter=true&width=760&lines=Construyendo+APIs%2C+SaaS+y+productos+full-stack;NestJS+%7C+Express+%7C+Prisma+%7C+TypeORM+%7C+MySQL+%7C+PostgreSQL;Auth%2C+RBAC%2C+sistemas+multi-tenant+y+documentacion;Aprendiendo+con+proyectos+reales+y+retos+reales)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ToroDevelloper-08111F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ToroDevelloper)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Toro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-ivan-toro-caicedo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Toro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-ivan-toro-caicedo-42143b39b)
 [![Email](https://img.shields.io/badge/Email-angeltoro736%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angeltoro736@gmail.com)
 
 </div>
@@ -315,8 +320,7 @@ Ordenar un dominio amplio sin perder claridad en responsabilidades, endpoints, v
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ToroDevelloper&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToroDevelloper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 
 <br>
 
